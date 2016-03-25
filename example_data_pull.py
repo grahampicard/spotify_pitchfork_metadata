@@ -8,8 +8,6 @@
 # directory to access using this process below.
 
 import os, json
-import seaborn as sns
-import pandas as pd
 from spotify_metadata import user_data
 from datetime import datetime
 
